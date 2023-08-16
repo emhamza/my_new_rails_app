@@ -18,7 +18,7 @@ function Greeting () {
     return (
         <div>
             <h1>Pick Random Greetings</h1>
-            <p> greeting.greeting.text</p>
+            <p>{greeting.greeting.text}</p>
         </div>
     );
 }
